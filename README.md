@@ -8,7 +8,7 @@
 Description of the methods to be coded in Python are as mentioned below:
 
 💻 Algorithms:
-Method 1: my_imfilter (image, filter) method is implemented which returns a filtered image.
+🛠️ Method 1: my_imfilter (image, filter) method is implemented which returns a filtered image.
 1.	In this method we create copy of the image to store the value of the filtered image.
 2.	Image is padded according to the filter size.
 3.	Filter is applied using Convolution. (Convolution is the process of changing the image by applying the kernel to each pixel and to the local neighbours of these pixels in the image).
